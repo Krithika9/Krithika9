@@ -1,4 +1,3 @@
-
 <h1 align="left">Hey 👋</h1>
 
 ###
@@ -11,7 +10,7 @@
 
 ###
 
-<h3 align="left"> Languages  and Tools</h3>
+<h3 align="left"># Languages  and Tools</h3>
 
 ###
 
@@ -39,7 +38,7 @@
 
 ###
 
-<h3 align="left"> Connect with me</h3>
+<h3 align="left"># Connect with me</h3>
 
 ###
 
